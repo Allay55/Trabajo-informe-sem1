@@ -1,15 +1,7 @@
 #Pruebas de Software
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
-
-  
-  Estudiantes:
-
-Ruben David Gonzalez Grajales-2220231105
-
-Santiago Andrés Cely Medina-2220231097
-
-Camilo Andres Galvis Tenjo-2220231074<strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
+<strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
   
  <h4><strong>Las pruebas de software son un conjunto de actividades y procesos diseñados para evaluar y verificar la calidad, funcionamiento y rendimiento de un programa o sistema de software. El objetivo principal de las pruebas de software es detectar errores, defectos o problemas en el software antes de que sea lanzado o implementado en producción.<br><br>
 
