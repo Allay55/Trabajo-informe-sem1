@@ -70,7 +70,7 @@ Los patrones de desarrollo proporcionan un vocabulario común y una forma de com
 <em>Patrones Creacionales:
 Los patrones creacionales se centran en la creación de objetos de manera flexible y eficiente. Estos patrones abordan el proceso de creación de objetos y ayudan a promover la reutilización y la flexibilidad en la creación de instancias.<br>
 
-<div align="right"> Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones <br>se utilizan para controlar cómo se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.</div><br><br>
+<div align="right"> Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones se <br>utilizan para controlar cómo se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.</div><br><br>
 
 
    
