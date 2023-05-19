@@ -55,7 +55,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
    
 <strong><h1>🤖Patrones De Desarrollo🤖</h1></strong>
 
-Los patrones de desarrollo, también conocidos como patrones de diseño o simplemente patrones, son soluciones probadas y comprobadas para problemas recurrentes en el desarrollo de software. Estos patrones representan un enfoque arquitectónico o de diseño que se puede aplicar a diferentes situaciones para resolver problemas comunes de manera efectiva.
+Los patrones de desarrollo, también conocidos como patrones de diseño o simplemente patrones, son soluciones probadas y comprobadas para problemas recurrentes en el desarrollo de software. Estos patrones representan un enfoque arquitectónico o de diseño que se puede aplicar a diferentes situaciones para resolver problemas comunes de manera efectiva.<br>
 <div align="right"><img src="art12-t14.jpg" width="370" height="270" align="right"></div>
 Los patrones de desarrollo surgieron de la necesidad de encontrar soluciones reutilizables y estructuradas para desafíos específicos en el desarrollo de software. Fueron popularizados por el libro "Design Patterns: Elements of Reusable Object-Oriented Software" escrito por Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides, comúnmente conocido como el libro de los <em>"Gang of Four" (GoF).</em>
 
