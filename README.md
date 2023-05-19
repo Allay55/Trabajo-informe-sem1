@@ -69,7 +69,7 @@ Los patrones de desarrollo proporcionan un vocabulario común y una forma de com
    
 
   
-  <h2>Existen tres categorías principales de patrones de desarrollo:</h2>
+  <h2>👾Existen tres categorías principales de patrones de desarrollo:👾</h2>
 
    <em><h3>Patrones Creacionales:</h3>
 Los patrones creacionales se centran en la creación de objetos de manera flexible y eficiente. Estos patrones abordan el proceso de creación de objetos y ayudan a promover la reutilización y la flexibilidad en la creación de instancias.<br>
