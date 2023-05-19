@@ -3,8 +3,7 @@
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
   
- <h4><strong>Las pruebas de software son un conjunto de actividades y procesos diseñados para evaluar y verificar la calidad, funcionamiento y rendimiento de un programa o sistema de
-  software. El objetivo principal de las pruebas de software es detectar errores, defectos o problemas en el software antes de que sea lanzado o implementado en producción.<br><br>
+ <h4><strong>Las pruebas de software son un conjunto de actividades y procesos diseñados para evaluar y verificar la calidad, funcionamiento y rendimiento de un programa o sistema de software. El objetivo principal de las pruebas de software es detectar errores, defectos o problemas en el software antes de que sea lanzado o implementado en producción.<br><br>
 
 Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del desarrollo de software y se enfocan en diferentes aspectos del sistema, como su funcionalidad, rendimiento, seguridad, usabilidad y compatibilidad. Estas pruebas se realizan utilizando diferentes técnicas y metodologías, y pueden involucrar la ejecución manual o automatizada de casos de prueba.</h4>
   
@@ -91,7 +90,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
    
  Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
   
+  <img src="que-debe-saber-un-programador-web-header.jpg" width="1000" height="200" align:right>
   
-  que-debe-saber-un-programador-web-header.jpg
   
 </html>
