@@ -80,7 +80,7 @@ Los patrones estructurales se centran en la composición de clases y objetos par
 
   
   <div align="right">Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite, 
-    Decorator, Facade, Flyweight y Proxy.<br> Estos patrones se utilizan para abordar problemas relacionados con la composición de objetos, la interconexión<br> entre diferentes partes del sistema y la simplificación de la estructura global.</div>
+    Decorator, Facade, Flyweight y Proxy. Estos patrones se utilizan para abordar <br>problemas relacionados con la composición de objetos, la interconexión entre diferentes partes del sistema y la simplificación de la estructura global.</div>
 
 
    
