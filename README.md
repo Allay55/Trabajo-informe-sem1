@@ -1,4 +1,4 @@
 # Trabajo-informe-sem1
 <html>
-	<a href="https://mx.godaddy.com/blog">Visita el blog de GoDaddy</a>
+	<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a">
 </html>
