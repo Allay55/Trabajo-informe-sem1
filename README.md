@@ -69,15 +69,15 @@ Los patrones de desarrollo proporcionan un vocabulario común y una forma de com
 
 <em>Patrones Creacionales:
 Los patrones creacionales se centran en la creación de objetos de manera flexible y eficiente. Estos patrones abordan el proceso de creación de objetos y ayudan a promover la reutilización y la flexibilidad en la creación de instancias.<br><br>
-Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones se utilizan para controlar cómo            se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.
+Algunos ejemplos de patrones creacionales son: (el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones se utilizan para controlar cómo            se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.)
 
 Patrones Estructurales:
 Los patrones estructurales se centran en la composición de clases y objetos para formar estructuras más grandes y flexibles. Estos patrones se utilizan para definir cómo las clases y los objetos se organizan y relacionan entre sí para lograr un sistema más flexible y eficiente.<br><br>
-Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite, Decorator, Facade, Flyweight y Proxy. Estos patrones se utilizan para abordar problemas relacionados con la composición de objetos, la interconexión entre diferentes partes del sistema y la simplificación de la estructura global.
+Ejemplos de patrones estructurales incluyen: (el Adapter, Bridge, Composite, Decorator, Facade, Flyweight y Proxy. Estos patrones se utilizan para abordar problemas relacionados con la composición de objetos, la interconexión entre diferentes partes del sistema y la simplificación de la estructura global.)
 
 Patrones de Comportamiento:
 Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.<br><br>
-Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
+Ejemplos de patrones de comportamiento incluyen: (el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento).</em>
   
   
   
