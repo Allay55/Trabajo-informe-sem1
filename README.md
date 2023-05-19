@@ -42,7 +42,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 10.Pruebas de carga: verifican el rendimiento del software cuando se somete a cargas de trabajo extremas o bajo condiciones de alta demanda.
 
-  <div align="right"><img src="What-is-Software-outsourcing.jpg" width="370" height="280" align="right"></div>
+  <div align="right"><img src="What-is-Software-outsourcing.jpg" width="370" height="270" align="right"></div>
 
 11.Pruebas de estrés: evalúan el comportamiento del software cuando se somete a condiciones extremas o situaciones límite.
 
