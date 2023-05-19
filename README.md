@@ -24,7 +24,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 4.Pruebas de aceptación: se realizan para verificar si el software cumple con los criterios de aceptación definidos por los usuarios, clientes o partes interesadas.
 
 5.Pruebas de humo: pruebas rápidas y superficiales que se ejecutan para verificar si las funciones principales del software están disponibles y operativas.
-<div align="right"><img src="programacion-2-e1551291144973.jpg" width="300" height="100" align="top"></div>
+<div align="right"><img src="tipos-prueba-software.jpg" width="300" height="100" align="top"></div>
 
 
 
