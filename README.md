@@ -17,9 +17,12 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 1.Pruebas de unidad: verifican el correcto funcionamiento de unidades individuales de código, como funciones, métodos o clases.
 
+<div align="right"><img src="tipos-prueba-software.jpg" width="300" height="470" align="right"></div>
+
+
 2.Pruebas de integración: se centran en probar la interacción y compatibilidad entre diferentes componentes o módulos del software.
 
-<div align="right"><img src="tipos-prueba-software.jpg" width="300" height="600" align="right"></div>
+
 
 3.Pruebas de sistema: evalúan el sistema en su conjunto para asegurar que cumple con los requisitos y especificaciones establecidos.
 
