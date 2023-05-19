@@ -76,7 +76,7 @@ Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abs
    
    
   <h3> Patrones Estructurales:</h3>
-Los patrones estructurales se centran en la composición de clases y objetos para formar estructuras más grandes y flexibles. Estos patrones se utilizan para definir cómo las clases y los objetos se organizan y relacionan entre sí para lograr un sistema más flexible y eficiente.<br>
+Los patrones estructurales se centran en la composición de clases y objetos para formar estructuras más grandes y flexibles. Estos patrones se utilizan para definir cómo las clases y los objetos se organizan y relacionan entre sí para lograr un sistema más flexible y eficiente.<br><br>
 
   
 Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite, 
@@ -86,7 +86,7 @@ Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite,
    
    
   <h3>Patrones de Comportamiento:</h3>
-Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.<br>
+Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.<br><br>
 
    
  Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
