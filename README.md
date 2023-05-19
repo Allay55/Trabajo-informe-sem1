@@ -1,6 +1,6 @@
 #Pruebas de Software
 
-Estudiantes:
+
 
 Ruben David Gonzalez Grajales-2220231105
 
