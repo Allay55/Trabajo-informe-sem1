@@ -2,7 +2,8 @@
 <html>
   <div style="color:red">hola bb</div>
   
-  
+  <code class="highlight">console.log("Mensaje");</code></p>
+
   
   
   
