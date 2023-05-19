@@ -62,11 +62,12 @@ Los patrones de desarrollo, también conocidos como patrones de diseño o simple
 
 
 Los patrones de desarrollo proporcionan un vocabulario común y una forma de comunicación entre los desarrolladores. Se basan en principios de diseño sólidos y encapsulan las mejores prácticas y experiencias de la industria. Al aplicar un patrón de desarrollo, los desarrolladores pueden aprovechar soluciones probadas en lugar de tener que diseñar y desarrollar desde cero. 
+   
 
   
   <h2>Existen tres categorías principales de patrones de desarrollo:</h2>
 
-Patrones Creacionales:
+<em>Patrones Creacionales:
 Los patrones creacionales se centran en la creación de objetos de manera flexible y eficiente. Estos patrones abordan el proceso de creación de objetos y ayudan a promover la reutilización y la flexibilidad en la creación de instancias.
 Algunos ejemplos de patrones creacionales son el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones se utilizan para controlar cómo se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.
 
@@ -76,7 +77,7 @@ Ejemplos de patrones estructurales incluyen el Adapter, Bridge, Composite, Decor
 
 Patrones de Comportamiento:
 Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.
-Ejemplos de patrones de comportamiento incluyen el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.
+Ejemplos de patrones de comportamiento incluyen el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
   
   
   
