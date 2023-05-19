@@ -14,7 +14,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
   <strong><h1>👽Tipos De Pruebas De Software👽</h1></strong>
   
  <h3> Hay una amplia variedad de pruebas de software que se pueden realizar para evaluar diferentes aspectos de un sistema. A continuación, te proporcionaré una lista más completa de las pruebas más comunes:</h3><br>
-<em>1.Pruebas de unidad: verifican el correcto funcionamiento de unidades individuales de código, como funciones, métodos o clases.
+<em>1.Pruebas de unidad: verifican el correcto funcionamiento de unidades individuales de código, como funciones, métodos o clases.<br>
 
 <div align="right"><img src="tipos-prueba-software.jpg" width="300" height="330" align="right"></div>
 
