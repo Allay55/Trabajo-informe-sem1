@@ -1,4 +1,4 @@
-# Trabajo Pruebas de Software
+<strong># Trabajo Pruebas de Software</strong>
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <div <h1><strong>🤔¿Que Son Las Pruebas De Software?🤔</strong></h1>
