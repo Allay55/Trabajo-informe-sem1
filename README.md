@@ -45,7 +45,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 15.Pruebas de recuperación de desastres: se llevan a cabo para evaluar la capacidad del software para recuperarse después de un fallo o desastre y restaurar el sistema a un estado operativo.
   
-<img src="programacion-2-e1551291144973.jpg"style="float:right">
+<img src="programacion-2-e1551291144973.jpg" alt style="float:right">
   
   
   
