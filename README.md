@@ -9,6 +9,8 @@
 Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del desarrollo de software y se enfocan en diferentes aspectos del sistema, como su funcionalidad, rendimiento, seguridad, usabilidad y compatibilidad. Estas pruebas se realizan utilizando diferentes técnicas y metodologías, y pueden involucrar la ejecución manual o automatizada de casos de prueba.</h4>
   
   
+  <img 
+  
   
 
   
