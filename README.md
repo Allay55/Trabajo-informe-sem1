@@ -20,7 +20,6 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 <div align="right"><img src="tipos-prueba-software.jpg" width="300" height="330" align="right"></div>
 
-
 2.Pruebas de integración: se centran en probar la interacción y compatibilidad entre diferentes componentes o módulos del software.
 
 
@@ -42,6 +41,8 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 9.Pruebas de rendimiento: evalúan el rendimiento, la capacidad de respuesta y la escalabilidad del software bajo diferentes condiciones de carga y estrés.
 
 10.Pruebas de carga: verifican el rendimiento del software cuando se somete a cargas de trabajo extremas o bajo condiciones de alta demanda.
+
+  <div align="right"><img src="What-is-Software-outsourcing.jpg" width="300" height="330" align="right"></div>
 
 11.Pruebas de estrés: evalúan el comportamiento del software cuando se somete a condiciones extremas o situaciones límite.
 
