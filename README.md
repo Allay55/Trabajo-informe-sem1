@@ -90,7 +90,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
    
  Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
   
-  <img src="que-debe-saber-un-programador-web-header.jpg" width="1000" height="200" align:right>
+  <img src="que-debe-saber-un-programador-web-header.jpg" width="900" height="160" align:right>
   
   
 </html>
