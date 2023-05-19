@@ -1,7 +1,7 @@
-<strong># Trabajo Pruebas de Software</strong>
+# Trabajo Pruebas de Software<
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
-<div <h1><strong>🤔¿Que Son Las Pruebas De Software?🤔</strong></h1>
+<div <h1>🤔¿Que Son Las Pruebas De Software?🤔</h1>
   
  <h4>Las pruebas de software son un conjunto de actividades y procesos diseñados para evaluar y verificar la calidad, funcionamiento y rendimiento de un programa o sistema de
   software. El objetivo principal de las pruebas de software es detectar errores, defectos o problemas en el software antes de que sea lanzado o implementado en producción.<br><br>
