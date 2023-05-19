@@ -1,5 +1,10 @@
 <strong><h1>Pruebas de Software</strong></h1>
 
+<h2Estudiantes:<br>
+Ruben David Gonzalez Grajales-2220231105<br>
+Santiago Andrés Cely Medina-2220231097<br>
+Camilo Andres Galvis Tenjo-2220231074<br></h2>
+
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
   
