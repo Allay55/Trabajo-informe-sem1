@@ -1,4 +1,4 @@
-# Trabajo Pruebas de Software<
+#Pruebas de Software<
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
@@ -92,6 +92,6 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
  Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
   
   
-  
+  que-debe-saber-un-programador-web-header.jpg
   
 </html>
