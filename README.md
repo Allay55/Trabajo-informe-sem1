@@ -18,7 +18,8 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 <div align="right"><img src="tipos-prueba-software.jpg" width="300" height="330" align="right"></div>
 
-2.Pruebas de integración: se centran en probar la interacción y compatibilidad entre diferentes componentes o módulos del software.
+
+  2.Pruebas de integración: se centran en probar la interacción y compatibilidad entre diferentes componentes o módulos del software.
 
 3.Pruebas de sistema: evalúan el sistema en su conjunto para asegurar que cumple con los requisitos y especificaciones establecidos.
 
