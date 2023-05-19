@@ -67,7 +67,7 @@ Los patrones de desarrollo proporcionan un vocabulario común y una forma de com
   
   <h2>Existen tres categorías principales de patrones de desarrollo:</h2>
 
-<em>Patrones Creacionales:
+   <em><h3>Patrones Creacionales:</h3>
 Los patrones creacionales se centran en la creación de objetos de manera flexible y eficiente. Estos patrones abordan el proceso de creación de objetos y ayudan a promover la reutilización y la flexibilidad en la creación de instancias.<br>
 
 Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abstract Factory, Builder y Prototype. Estos patrones se <br>utilizan para controlar cómo se crean, se instancian y se configuran los objetos, permitiendo que el código sea más flexible y escalable.<br><br>
@@ -75,7 +75,7 @@ Algunos ejemplos de patrones creacionales son: el Singleton, Factory Method, Abs
 
    
    
-   Patrones Estructurales:
+  <h3> Patrones Estructurales:</h3>
 Los patrones estructurales se centran en la composición de clases y objetos para formar estructuras más grandes y flexibles. Estos patrones se utilizan para definir cómo las clases y los objetos se organizan y relacionan entre sí para lograr un sistema más flexible y eficiente.<br>
 
   
@@ -85,7 +85,7 @@ Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite,
 
    
    
-Patrones de Comportamiento:
+  <h3>Patrones de Comportamiento:</h3>
 Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.<br>
 
    
