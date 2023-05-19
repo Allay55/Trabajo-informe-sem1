@@ -1,3 +1,5 @@
+<img src="programacion-2-e1551291144973.jpg" width="700">
+
 # Trabajo Pruebas de Software
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="700">
