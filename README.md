@@ -1,6 +1,6 @@
 # Trabajo Pruebas de Software
 <html>
-<img src="programacion-2-e1551291144973.jpg" width="1000" height="200" float:center>
+<img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <div <h2><strong>🤔¿Que Son Las Pruebas De Software?🤔</strong></h2>
   
  <h4>Las pruebas de software son un conjunto de actividades y procesos diseñados para evaluar y verificar la calidad, funcionamiento y rendimiento de un programa o sistema de
