@@ -25,7 +25,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 5.Pruebas de humo: pruebas rápidas y superficiales que se ejecutan para verificar si las funciones principales del software están disponibles y operativas.</div>
 <img src="programacion-2-e1551291144973.jpg" width="300" height="100" align="top">
-6.Pruebas de regresión: se llevan a cabo después de realizar cambios en el software para asegurar que las funcionalidades previamente implementadas siguen funcionando correctamente.
+<div text-align:left>6.Pruebas de regresión: se llevan a cabo después de realizar cambios en el software para asegurar que las funcionalidades previamente implementadas siguen funcionando correctamente.
 
 7.Pruebas funcionales: evalúan si el software cumple con los requisitos funcionales y verifica el comportamiento esperado de las características del sistema.
 
@@ -43,7 +43,7 @@ Las pruebas de software se llevan a cabo a lo largo de todo el ciclo de vida del
 
 14.Pruebas de localización: evalúan la adaptación del software a diferentes idiomas, regiones y culturas.
 
-15.Pruebas de recuperación de desastres: se llevan a cabo para evaluar la capacidad del software para recuperarse después de un fallo o desastre y restaurar el sistema a un estado operativo.
+15.Pruebas de recuperación de desastres: se llevan a cabo para evaluar la capacidad del software para recuperarse después de un fallo o desastre y restaurar el sistema a un estado operativo.</div>
   
 <img src="programacion-2-e1551291144973.jpg" alt style="float:right">
   
