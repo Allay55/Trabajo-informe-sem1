@@ -1,4 +1,4 @@
-#Pruebas de Software
+<strong><h1>Pruebas de Software</strong></h1>
 
 <html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
