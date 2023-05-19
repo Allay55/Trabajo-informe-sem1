@@ -1,4 +1,4 @@
 # Trabajo-informe-sem1
 <html>
-	Hola Mundo<br>hola mundo<br>
+	<strong>Hola Mundo</strong><br>hola mundo<br>
 </html>
