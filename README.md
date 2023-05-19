@@ -1,6 +1,6 @@
 <strong><h1>Pruebas de Software</strong></h1>
 
-<h2Estudiantes:<br>
+<h2>Estudiantes:<br>
 Ruben David Gonzalez Grajales-2220231105<br>
 Santiago Andrés Cely Medina-2220231097<br>
 Camilo Andres Galvis Tenjo-2220231074<br></h2>
