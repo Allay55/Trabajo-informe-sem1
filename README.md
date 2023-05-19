@@ -1,6 +1,5 @@
 <strong><h1>Pruebas de Software</strong></h1>
 
-<html>
 <img src="programacion-2-e1551291144973.jpg" width="1000" height="200" align:right>
 <strong><h1>🤔¿Que Son Las Pruebas De Software?🤔</h1></strong>
   
@@ -94,4 +93,4 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
   <div align="center"><img src="que-debe-saber-un-programador-web-header.jpg" width="730" height="220"></div>
   
   
-</html>
+
