@@ -75,11 +75,8 @@ Patrones Estructurales:
 Los patrones estructurales se centran en la composición de clases y objetos para formar estructuras más grandes y flexibles. Estos patrones se utilizan para definir cómo las clases y los objetos se organizan y relacionan entre sí para lograr un sistema más flexible y eficiente.<br><br>
 
   
-  
-  <div align="center">Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite, 
-    Decorator, Facade, Flyweight y Proxy. Estos patrones se utilizan para abordar problemas
-    relacionados con la composición de objetos, la interconexión entre diferentes partes 
-    del sistema y la simplificación de la estructura global.</div>
+  <section>Ejemplos de patrones estructurales incluyen: el Adapter, Bridge, Composite, 
+    Decorator, Facade, Flyweight y Proxy. Estos patrones se utilizan para abordar problemas relacionados con la composición de objetos, la interconexión entre diferentes partes del sistema y la simplificación de la estructura global.</section>
 
 Patrones de Comportamiento:
 Los patrones de comportamiento se centran en la interacción y comunicación entre los objetos. Estos patrones definen cómo los objetos colaboran y distribuyen responsabilidades entre sí, permitiendo un mejor diseño y una mayor flexibilidad en la implementación del comportamiento del software.<br><br>
