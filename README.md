@@ -103,7 +103,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
 
   
   
-  <h2><strong> Cuando se trata de pruebas de desarrollo de software, la POO se puede aplicar de diferentes maneras. Aquí hay algunos conceptos relacionados: </h2></strong>
+  <h2><strong> Cuando se trata de pruebas de desarrollo de software, la POO se puede aplicar de diferentes maneras:</h2></strong>
 
 <h4><strong>
   <div align="right"><img src="Programacion-Orientada-Objetos.jpg" width="370" height="270" align="right"></div>
