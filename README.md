@@ -106,7 +106,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
   <h2><strong> Cuando se trata de pruebas de desarrollo de software, la POO se puede aplicar de diferentes maneras:</h2></strong>
 
 <h4><strong>
-  <div align="right"><img src="Programacion-Orientada-Objetos.jpg" width="370" height="270" align="right"></div>
+  <div align="right"><img src="Programacion-Orientada-Objetos.jpg" width="370" height="260" align="right"></div>
   <em>Pruebas de unidades</em>: Las pruebas de unidades implican probar las unidades más pequeñas de código, como métodos y funciones, en un entorno aislado. La POO facilita estas pruebas ya que los objetos pueden ser probados individualmente.<br><br>
   
   
@@ -116,7 +116,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
  
   
   
-<em>Herencia y polimorfismo</em>: La herencia y el polimorfismo son conceptos clave en la POO. Permiten que los objetos se hereden y compartan características y comportamientos comunes. En las pruebas, esto puede facilitar la reutilización de código y la creación de casos de prueba genéricos.<br><br>
+<em>Herencia y polimorfismo</em>: La herencia y el polimorfismo son conceptos clave en la POO. Permiten que los objetos se hereden y compartan características y comportamientos comunes. En las pruebas, esto puede facilitar la reutilización de código y la creación de casos de prueba genéricos.<br>
 
 <em>Encapsulación</em>: La encapsulación es un principio de la POO que implica ocultar los detalles internos de un objeto y exponer solo las interfaces necesarias. En las pruebas, esto puede ayudar a aislar las dependencias y facilitar la escritura de pruebas más precisas y efectivas.<br>
 </h4></strong>
