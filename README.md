@@ -116,7 +116,7 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
  
   
   
-<em>Herencia y polimorfismo</em>: La herencia y el polimorfismo son conceptos clave en la POO. Permiten que los objetos se hereden y compartan características y comportamientos comunes. En las pruebas, esto puede facilitar la reutilización de código y la creación de casos de prueba genéricos.<br>
+<em>Herencia y polimorfismo</em>: La herencia y el polimorfismo son conceptos clave en la POO. Permiten que los objetos se hereden y compartan características y comportamientos comunes. En las pruebas, esto puede facilitar la reutilización de código y la creación de casos de prueba genéricos.<br><br>
 
 <em>Encapsulación</em>: La encapsulación es un principio de la POO que implica ocultar los detalles internos de un objeto y exponer solo las interfaces necesarias. En las pruebas, esto puede ayudar a aislar las dependencias y facilitar la escritura de pruebas más precisas y efectivas.<br>
 </h4></strong>
