@@ -106,9 +106,10 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
   <h2><strong> Cuando se trata de pruebas de desarrollo de software, la POO se puede aplicar de diferentes maneras. Aquí hay algunos conceptos relacionados: </h2></strong>
 
 <h4><strong>
+  <div align="right"><img src="Programacion-Orientada-Objetos.jpg" width="370" height="270" align="right"></div>
   <em>Pruebas de unidades</em>: Las pruebas de unidades implican probar las unidades más pequeñas de código, como métodos y funciones, en un entorno aislado. La POO facilita estas pruebas ya que los objetos pueden ser probados individualmente.<br><br>
   
-   <div align="right"><img src="Programacion-Orientada-Objetos.jpg" width="370" height="270" align="right"></div>
+  
 
   <em>Mocking y stubbing</em>: En las pruebas de desarrollo de software, a veces es necesario simular el comportamiento de objetos o componentes externos. La POO permite crear objetos simulados (mocks) o objetos simulados parcialmente (stubs) que reemplazan a los objetos reales durante las pruebas.<br>
 
@@ -121,9 +122,9 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
 </h4></strong>
   
 
-  
-
-  
+  <br>
+  <br>
+    <br>
 
   
   <div align="center"><img src="que-debe-saber-un-programador-web-header.jpg" width="730" height="220"></div>
