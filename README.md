@@ -124,9 +124,6 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
 
   <br>
   <br>
-    <br>
-
-  
   <div align="center"><img src="que-debe-saber-un-programador-web-header.jpg" width="800" height="300"></div>
   
   
