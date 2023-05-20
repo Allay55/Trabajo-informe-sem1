@@ -95,6 +95,28 @@ Los patrones de comportamiento se centran en la interacción y comunicación ent
    
  Ejemplos de patrones de comportamiento incluyen: el Observer, Strategy, Command, Template Method, Iterator, Mediator y State. Estos patrones se utilizan para definir cómo los objetos se comunican, cómo se manejan los eventos, cómo se distribuyen las tareas y cómo se implementa la lógica del comportamiento.</em>
   
+  
+<strong><h1>💻Programación Orientada a Objetos (POO)💻</h1></strong>
+  
+   <h4><strong>la Programación Orientada a Objetos (POO). La POO es un paradigma de programación que se basa en el concepto de "objetos" que interactúan entre sí para resolver problemas. En el desarrollo de software, la POO se utiliza para modelar el mundo real y organizar el código en entidades lógicas llamadas objetos. </h4></strong>
+
+
+  
+  
+  <h3><strong> Cuando se trata de pruebas de desarrollo de software, la POO se puede aplicar de diferentes maneras. Aquí hay algunos conceptos relacionados: </h3></strong>
+
+<h4><strong>
+Pruebas de unidades: Las pruebas de unidades implican probar las unidades más pequeñas de código, como métodos y funciones, en un entorno aislado. La POO facilita estas pruebas ya que los objetos pueden ser probados individualmente.
+
+Mocking y stubbing: En las pruebas de desarrollo de software, a veces es necesario simular el comportamiento de objetos o componentes externos. La POO permite crear objetos simulados (mocks) o objetos simulados parcialmente (stubs) que reemplazan a los objetos reales durante las pruebas.
+
+Herencia y polimorfismo: La herencia y el polimorfismo son conceptos clave en la POO. Permiten que los objetos se hereden y compartan características y comportamientos comunes. En las pruebas, esto puede facilitar la reutilización de código y la creación de casos de prueba genéricos.
+
+Encapsulación: La encapsulación es un principio de la POO que implica ocultar los detalles internos de un objeto y exponer solo las interfaces necesarias. En las pruebas, esto puede ayudar a aislar las dependencias y facilitar la escritura de pruebas más precisas y efectivas.
+</h4></strong>
+  
+  
+  
   <div align="center"><img src="que-debe-saber-un-programador-web-header.jpg" width="730" height="220"></div>
   
   
